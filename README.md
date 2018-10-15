@@ -1,0 +1,2 @@
+# ColorAtom-Privacy-Policy
+asferv
