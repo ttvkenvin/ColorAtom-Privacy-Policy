@@ -14,11 +14,11 @@ a) keyword information that you enter when using the search service provided by 
 
 b) Information about the information you have collected on the ColorAtom App collected by the ColorAtom App, including but not limited to participation activities, transaction information and evaluation details;
 
-c) Violation of the law or violation of ColorAtom App rules and actions taken by XX App.
+c) Violation of the law or violation of ColorAtom App rules and actions taken by ColorAtom App.
 
 2. Information use
 
-a) ColorAtom App will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and XX App provide services to you individually or jointly, and When the service is over, it will be blocked from accessing all of this material that it has previously been able to access.
+a) ColorAtom App will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and ColorAtom App provide services to you individually or jointly, and When the service is over, it will be blocked from accessing all of this material that it has previously been able to access.
 
 b) ColorAtom App also does not allow any third party to collect, edit, sell or distribute your personal information by any means. Any ColorAtom App platform user who engages in the above activities, once discovered, ColorAtom App has the right to immediately terminate the service agreement with the user.
 
